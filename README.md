@@ -4,7 +4,6 @@ I love to **build AI-powered solutions** and **Android apps** that solve real-wo
 
 - 🌟 I'm looking to collaborate on **ML, DL, or Android development projects**.
 - 🤝 I'm open to help with improving **machine learning**.
-- 📚 How to reach me: [gadhesatyavathi@gmail.com](mailto:gadhesatyavathi@gmail.com)
 
 - 📋 Know about my experiences: [LinkedIn](https://linkedin.com/in/saivignesh2411)
 - 💻 Check my work: [GitHub](https://github.com/vignesh61fl)
