@@ -5,7 +5,7 @@ I love to **build AI-powered solutions** and **Android apps** that solve real-wo
 - 🌟 I'm looking to collaborate on **ML, DL, or Android development projects**.
 - 🤝 I'm open to help with improving **machine learning**.
 
-- 📋 Know about my experiences: [LinkedIn](https://linkedin.com/in/saivignesh2411)
+- 📋 Know about my experiences: [LinkedIn]([https://linkedin.com/in/saivignesh2411](https://www.linkedin.com/in/saivignesh2411/details/certifications/))
 - 💻 Check my work: [GitHub](https://github.com/vignesh61fl)
 
 ---
@@ -17,11 +17,6 @@ I love to **build AI-powered solutions** and **Android apps** that solve real-wo
   - AI-ChatBot - NLP-based web app for mining queries (SIH 2023).
   - Automating Booklet Details - OCR tool with Deep Learning (in progress).
 
----
-
-## 📊 GitHub Stats
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh61fl&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh61fl&layout=compact&theme=radical)
 
 ---
 
